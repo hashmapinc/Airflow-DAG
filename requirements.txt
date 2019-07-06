@@ -29,7 +29,7 @@ gunicorn==19.9.0
 idna==2.8
 iso8601==0.1.12
 itsdangerous==1.1.0
-jinja2==2.10
+jinja2>=2.10.1
 json-merge-patch==0.2
 lockfile==0.12.2
 lxml==4.3.4
